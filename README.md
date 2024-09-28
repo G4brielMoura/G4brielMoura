@@ -1,7 +1,7 @@
 <img align="center" width=100% src="https://github.com/G4brielMoura/README.md/blob/main/gm-past/img/gm-ft.png">
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ developing innovative web solutions. <br><br> As a web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript,</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp;
+<p align="center">I ❤️ developing innovative web solutions. <br><br> As a web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript,</strong> I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=G4brielMoura&theme=dracula&mode=weekly" />
